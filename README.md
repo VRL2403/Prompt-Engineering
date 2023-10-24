@@ -40,3 +40,10 @@ Notes of ChatGPT Prompt Engineering for Developers - Deep Learning AI Course in 
 
 ## Model Limitation
 1. Hallucination: Makes statements that sound plausible but are not true.
+   Though models are exposed to vast amounts of data while training, models have not yet memorized everything. Model is not aware of the boundaries due to which models also tend to answer topics which it is not aware of yet the answers sound so appealing. These fabricated ideas are called Hallucinations.
+2. Reducing Hallucinations: We should first ask the model to first find relevant information, from a relevant source and then answer the questions.
+
+
+
+
+
